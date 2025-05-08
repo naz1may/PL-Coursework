@@ -1,4 +1,6 @@
-package org.example;
+package org.example.service;
+
+import org.example.model.Product;
 
 import java.io.FileWriter;
 import java.io.IOException;

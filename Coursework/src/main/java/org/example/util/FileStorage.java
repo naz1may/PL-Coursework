@@ -1,6 +1,7 @@
-package org.example;
+package org.example.util;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import org.example.model.Product;
 
 import java.io.*;
 import java.util.ArrayList;

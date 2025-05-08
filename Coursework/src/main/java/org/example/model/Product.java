@@ -1,7 +1,4 @@
-package org.example;
-
-import com.fasterxml.jackson.annotation.JsonCreator;
-import com.fasterxml.jackson.annotation.JsonProperty;
+package org.example.model;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -72,6 +69,10 @@ public class Product {
         }
         usedIds.add(id);
         this.id=id;
+    }
+
+    public void setIdSilently(int id) {
+        this.id = id;
     }
 
     public void setName(String name){

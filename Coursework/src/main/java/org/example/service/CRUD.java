@@ -1,4 +1,7 @@
-package org.example;
+package org.example.service;
+
+import org.example.model.Product;
+import org.example.util.FileStorage;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -36,6 +39,7 @@ public class CRUD {
             nProduct.setPrice(price);
 
             productList.add(nProduct);
+
             FileStorage.saveToCSV(productList);
             FileStorage.saveToJSON(productList);
             System.out.println("Product added: " + nProduct);
