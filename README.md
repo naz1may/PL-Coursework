@@ -1,6 +1,3 @@
-Конечно, вот улучшенная версия `README.md` файла — более выразительная, профессиональная и структурированная, но при этом остающаяся краткой:
-
----
 
 # 🛒 Product Catalog Application
 
@@ -52,7 +49,3 @@ The application architecture follows clean OOP design:
 * Encapsulation of data in model classes
 * Separation of concerns between data access, logic, and UI
 * Modular and extensible design for future enhancements
-
----
-
-Let me know if you want to include example screenshots, SQL setup scripts, or build instructions.
