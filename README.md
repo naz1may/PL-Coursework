@@ -1,7 +1,7 @@
 
 # 🛒 Product Catalog Application
 
-####by Kadyrbekova Nazimay
+#### by Kadyrbekova Nazimay
 
 ### Presentation: https://www.canva.com/design/DAGnUgxzeEk/GM-3aurcF2b7kr7qTvnTwA/edit
 ### Project Structure: https://www.canva.com/design/DAGnaZiMPfg/8ulMr-xLV1KkuvDCfpIhAw/edit
