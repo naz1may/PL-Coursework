@@ -3,8 +3,8 @@
 
 #### by Kadyrbekova Nazimay
 
-### Presentation: https://www.canva.com/design/DAGnUgxzeEk/GM-3aurcF2b7kr7qTvnTwA/edit
-### Project Structure: https://www.canva.com/design/DAGnaZiMPfg/8ulMr-xLV1KkuvDCfpIhAw/edit
+### Presentation:[[ https://www.canva.com/design/DAGnUgxzeEk/GM-3aurcF2b7kr7qTvnTwA/edit](https://www.canva.com/design/DAGnUgxzeEk/GM-3aurcF2b7kr7qTvnTwA/edit?utm_content=DAGnUgxzeEk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAGnUgxzeEk/GM-3aurcF2b7kr7qTvnTwA/edit?utm_content=DAGnUgxzeEk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### Project Structure:[ https://www.canva.com/design/DAGnaZiMPfg/8ulMr-xLV1KkuvDCfpIhAw/edit](https://www.canva.com/design/DAGnaZiMPfg/8ulMr-xLV1KkuvDCfpIhAw/edit?utm_content=DAGnaZiMPfg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ### Documentation: https://onedrive.live.com/personal/e3031c5e31a30688/_layouts/15/doc2.aspx?resid=d1df176a-000b-469f-9f15-e43a1515c263&cid=e3031c5e31a30688&action=editnew&wdNewAndOpenCt=1747377170640&ct=1747377172929&wdOrigin=OFFICECOM-WEB.START.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=48db4a8e-e835-4f8b-84d3-3ef886b1304a
 
 ## Overview
