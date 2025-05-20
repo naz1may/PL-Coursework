@@ -52,3 +52,33 @@ The application architecture follows clean OOP design:
 * Encapsulation of data in model classes
 * Separation of concerns between data access, logic, and UI
 * Modular and extensible design for future enhancements
+
+## Code Review
+#### Product List Frame
+  ![image](https://github.com/user-attachments/assets/69504ac4-45b2-4288-98e5-1d94e1c0d22c)
+
+#### User Role 
+##### Adding to the cart, removing from the cart, view cart
+![image](https://github.com/user-attachments/assets/42690027-c831-4c4d-8cb7-b046c31d6056)
+![image](https://github.com/user-attachments/assets/e98744fc-a687-4a6a-a05b-ac85ccd5251b)
+![image](https://github.com/user-attachments/assets/e96d5222-1530-4433-b230-45a46b7e9aed)
+![image](https://github.com/user-attachments/assets/9b1b5951-598c-4769-bd44-9e66e541f228)
+
+
+#### Admin Role
+##### CRUD opeations with CSV, JSON files, PostgreSQL, review Report, list of users 
+![image](https://github.com/user-attachments/assets/a213462e-3e29-4bda-9b06-9c7c8367079c)
+![image](https://github.com/user-attachments/assets/411bfed7-3a1b-4dff-ad37-eaa0388072f3)
+![image](https://github.com/user-attachments/assets/5b888389-c7d4-429c-aa76-9dbdb141fedd)
+![image](https://github.com/user-attachments/assets/7078c8b6-64ed-4b1d-baee-0b6654dd89b9)
+![image](https://github.com/user-attachments/assets/154681e1-f513-42f4-921e-eb363655490d)
+![image](https://github.com/user-attachments/assets/ba5f86e9-5c50-4aa3-b1f4-bcf61c1328f3)
+![image](https://github.com/user-attachments/assets/4a093dcc-0c93-4b41-90ed-e7d0f660563e)
+
+
+
+
+
+
+
+
